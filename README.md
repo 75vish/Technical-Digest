@@ -18,4 +18,4 @@ The app also supports automated weekly digests through **Celery + Redis** backgr
 - **Background processing:** Celery + Redis for asynchronous tasks and digests.  
 
 ---
-
+## *Work in Progress*
